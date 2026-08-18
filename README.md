@@ -1,4 +1,4 @@
-# Programmatic access to NISAR S-band data from Bhoonidhi.
+# Programmatic access to Bhoonidhi NISAR S-band data
 
 By the Rignot Research Group with Claude Code assistance
 
