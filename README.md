@@ -1,10 +1,10 @@
-# NISAR S-band (Bhoonidhi) frame search
-
-![NISAR S-band frame map](s-band_aug17.png)
+# Programmatic access to NISAR S-band data from Bhoonidhi.
 
 By the Rignot Research Group with Claude Code assistance
 
-Programmatic access to NISAR S-band data from Bhoonidhi.
+![NISAR S-band frame map](s-band_aug17.png)
+
+
 
 ## Antarctica example
 
